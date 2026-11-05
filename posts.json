@@ -5,21 +5,107 @@
  "timezone": "Asia/Jerusalem",
  "posts": [
   {
-   "id": "2026-11-05_story1",
-   "date": "2026-11-05",
-   "time": "09:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-05/story1.jpg"
-   ]
-  },
-  {
    "id": "2026-11-05_story2",
    "date": "2026-11-05",
    "time": "13:00",
    "type": "STORY",
    "files": [
     "media/2026-11-05/story2.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-06_story3",
+   "date": "2026-11-06",
+   "time": "13:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-06/story3.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-08_story1",
+   "date": "2026-11-08",
+   "time": "09:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-08/story1.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-10_story1",
+   "date": "2026-11-10",
+   "time": "09:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-10/story1.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-11_story2",
+   "date": "2026-11-11",
+   "time": "13:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-11/story2.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-12_story2",
+   "date": "2026-11-12",
+   "time": "13:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-12/story2.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-12_reel",
+   "date": "2026-11-12",
+   "time": "19:00",
+   "type": "REELS",
+   "files": [
+    "media/2026-11-12/reel.mp4"
+   ],
+   "cover": "media/2026-11-12/cover.jpg",
+   "caption": "חוף ריק, שקיעה, ושניים שעוד רגע מתחתנים.\nעצרו על התמונה שהכי ריגשה אתכם, ותכתבו לי בתגובות איזו 👇\nמתחתנים השנה? כתבו לי “תאריך” ונבדוק אם נשארה שקיעה פנויה 🌅\n\n#סייבדהדייט #צילומיזוגיות #צילומילפניחתונה #צלםזוגות #צלםבמרכז",
+   "name": "video 5 - save the date plage (jeu 12-11 19h)"
+  },
+  {
+   "id": "2026-11-12_story3",
+   "date": "2026-11-12",
+   "time": "20:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-12/story3.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-13_story3",
+   "date": "2026-11-13",
+   "time": "13:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-13/story3.jpg"
+   ]
+  },
+  {
+   "id": "2026-11-15_story3",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-15/story3.jpg"
+   ]
+  }
+ ],
+ "paused_no_permission": [
+  {
+   "id": "2026-11-05_story1",
+   "date": "2026-11-05",
+   "time": "09:00",
+   "type": "STORY",
+   "files": [
+    "media/2026-11-05/story1.jpg"
    ]
   },
   {
@@ -78,24 +164,6 @@
    "type": "STORY",
    "files": [
     "media/2026-11-06/story2.jpg"
-   ]
-  },
-  {
-   "id": "2026-11-06_story3",
-   "date": "2026-11-06",
-   "time": "13:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-06/story3.jpg"
-   ]
-  },
-  {
-   "id": "2026-11-08_story1",
-   "date": "2026-11-08",
-   "time": "09:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-08/story1.jpg"
    ]
   },
   {
@@ -171,15 +239,6 @@
    ]
   },
   {
-   "id": "2026-11-10_story1",
-   "date": "2026-11-10",
-   "time": "09:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-10/story1.jpg"
-   ]
-  },
-  {
    "id": "2026-11-10_story2",
    "date": "2026-11-10",
    "time": "13:00",
@@ -216,15 +275,6 @@
    "type": "STORY",
    "files": [
     "media/2026-11-11/story1.jpg"
-   ]
-  },
-  {
-   "id": "2026-11-11_story2",
-   "date": "2026-11-11",
-   "time": "13:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-11/story2.jpg"
    ]
   },
   {
@@ -265,36 +315,6 @@
    ]
   },
   {
-   "id": "2026-11-12_story2",
-   "date": "2026-11-12",
-   "time": "13:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-12/story2.jpg"
-   ]
-  },
-  {
-   "id": "2026-11-12_reel",
-   "date": "2026-11-12",
-   "time": "19:00",
-   "type": "REELS",
-   "files": [
-    "media/2026-11-12/reel.mp4"
-   ],
-   "cover": "media/2026-11-12/cover.jpg",
-   "caption": "חוף ריק, שקיעה, ושניים שעוד רגע מתחתנים.\nעצרו על התמונה שהכי ריגשה אתכם, ותכתבו לי בתגובות איזו 👇\nמתחתנים השנה? כתבו לי “תאריך” ונבדוק אם נשארה שקיעה פנויה 🌅\n\n#סייבדהדייט #צילומיזוגיות #צילומילפניחתונה #צלםזוגות #צלםבמרכז",
-   "name": "video 5 - save the date plage (jeu 12-11 19h)"
-  },
-  {
-   "id": "2026-11-12_story3",
-   "date": "2026-11-12",
-   "time": "20:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-12/story3.jpg"
-   ]
-  },
-  {
    "id": "2026-11-13_story1",
    "date": "2026-11-13",
    "time": "09:00",
@@ -322,15 +342,6 @@
    "type": "STORY",
    "files": [
     "media/2026-11-13/story2.jpg"
-   ]
-  },
-  {
-   "id": "2026-11-13_story3",
-   "date": "2026-11-13",
-   "time": "13:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-13/story3.jpg"
    ]
   },
   {
@@ -365,15 +376,6 @@
    ],
    "caption": "לחוצים מול המצלמה? זה לגמרי נורמלי.\nהנה מה שאני עושה כדי שתוך עשר דקות תשכחו שיש מצלמה 👇\nשמרו, ושלחו לזוג שמתחתן בקרוב.\n\n#צילומיזוגיות #סייבדהדייט #צלםזוגות #טיפיםלצילום #צלםבמרכז",
    "name": "carousel 8 - stress devant la camera (dim 15-11 18h)"
-  },
-  {
-   "id": "2026-11-15_story3",
-   "date": "2026-11-15",
-   "time": "20:00",
-   "type": "STORY",
-   "files": [
-    "media/2026-11-15/story3.jpg"
-   ]
   }
  ]
 }
