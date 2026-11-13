@@ -1,0 +1,107 @@
+[
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-16",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "רק שניכם – מתי הצטלמתם לבד? / ביקורת לקוח / רוצים כאלה?",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-16/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-16/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-16/story3.jpg"
+  ],
+  "cover_url": null
+ },
+ {
+  "kind": "carousel",
+  "status": "programmé",
+  "planned_for": "2026-11-17",
+  "hook": "שקיעה, חוף כמעט ריק",
+  "idea": "Save the date au coucher de soleil, version sans texte, 6 photos ; question « qui va envoyer à qui » : couple qui se marie bientôt",
+  "caption": "שקיעה, חוף כמעט ריק, ושניים שרק רוצים להיות ביחד.\nבלי פוזות מביכות: אני מכוון, אתם רק נהנים.\nמכירים זוג שמתחתן בקרוב? שלחו להם את הפוסט.\nלבדוק אם נשאר תאריך: wa.link/ezm2no\n\n#savethedate #צילומיזוגיות #צלםזוגות #לפניהחתונה #צלםבמרכז",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_3.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_4.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_5.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_6.jpg"
+  ],
+  "cover_url": "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/carousel_1.jpg"
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-17",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "מי פוטוגני יותר? / טיפ: פחות פוזה / הרגע הבא שלכם",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-17/story3.jpg"
+  ],
+  "cover_url": null
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-18",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "הכי אתם / ביקורת לקוח / מתכננים חתונה?",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-18/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-18/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-18/story3.jpg"
+  ],
+  "cover_url": null
+ },
+ {
+  "kind": "carousel",
+  "status": "programmé",
+  "planned_for": "2026-11-19",
+  "hook": "מה ללבוש לצילומים?",
+  "idea": "Carrousel valeur thème 1 avec texte : quoi porter (blanc/clair, même style, confort) ; CTA enregistrer",
+  "caption": "השאלה שהכי שואלים אותי לפני צילום: מה ללבוש?\nלבן וצבעים בהירים, אותו סגנון לשניכם, ומשהו שנוח לכם בו. זה כל הסוד.\nשמרו את הפוסט לצילום הבא ושלחו למי שמצטלם איתכם.\nרוצים לבדוק אם נשאר תאריך? כתבו לי בוואטסאפ wa.link/ezm2no\n\n#מהללבוש #צילומיזוגיות #טיפיםלצילום #savethedate #צלםבמרכז",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/carousel_1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/carousel_2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/carousel_3.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/carousel_4.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/carousel_5.jpg"
+  ],
+  "cover_url": "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/carousel_1.jpg"
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-19",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "שקיעה או בוקר? / לא פוטוגניים? / הזמן שלכם",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-19/story3.jpg"
+  ],
+  "cover_url": null
+ },
+ {
+  "kind": "story",
+  "status": "programmé",
+  "planned_for": "2026-11-20",
+  "hook": "שבת שלום",
+  "idea": "Story unique du vendredi, photo + texte",
+  "caption": "שבת שלום. שיהיה לכם סוף שבוע רגוע עם מי שאתם אוהבים.",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-20/story.jpg"
+  ],
+  "cover_url": "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-20/story.jpg"
+ }
+]
