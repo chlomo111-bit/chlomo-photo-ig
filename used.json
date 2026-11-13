@@ -9,9 +9,16 @@
   "media/2026-11-carousel-9/slide1-5": "post 19.11",
   "media/2026-11-carousel-7/slide1-6": "stories 16-20.11",
   "media/2026-11-neuf-std-linhadad/slide1-5": "stories 16-19.11 (même séance que carousel-6)",
-  "media/2026-11-avis/avis16,avis17": "stories 16 et 18.11"
+  "media/2026-11-avis/avis16,avis17": "stories 16 et 18.11",
+  "media/2026-11-post-std3/slide1,3,4,5,6": "post 22.11",
+  "media/2026-11-post-std2/slide1,2,3,5,6": "post 24.11 (texte)",
+  "media/2026-11-post-std2/slide4": "story 22.11",
+  "media/2026-11-neuf-std-linhadad/slide6-9": "stories 23-25.11",
+  "media/2026-11-carousel-6/slide1,6,7": "stories 22-24.11 (slides 2-5 = mêmes photos que linhadad)",
+  "media/2026-11-avis/avis11-14": "stories 22-25.11"
  },
  "interdit": {
   "media/2026-11-post-std1": "demande en mariage (Marry me) – pas d'autorisation"
- }
+ },
+ "manque": "Plus aucune photo couple/STD inutilisée dans le dépôt après le 25.11 : il faut de nouvelles séances depuis le Mac (Tous les photo/save the date)."
 }

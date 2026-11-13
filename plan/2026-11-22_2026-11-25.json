@@ -1,0 +1,90 @@
+[
+ {
+  "kind": "carousel",
+  "status": "programmé",
+  "planned_for": "2026-11-22",
+  "hook": "יפו, שעה לפני השקיעה",
+  "idea": "Séance couple à Jaffa, version sans texte, 5 photos ; CTA tag",
+  "caption": "יפו העתיקה, שעה לפני השקיעה. סמטאות, ים, ושניים ביחד.\nככה נראה צילום זוגי כשלא חושבים על הפוזה.\nתייגו את מי שהייתם רוצים להצטלם איתו כאן.\nלבדוק אם נשאר תאריך: wa.link/ezm2no\n\n#צילומיזוגיות #יפו #savethedate #צלםזוגות #צלםבמרכז",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/carousel_1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/carousel_2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/carousel_3.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/carousel_4.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/carousel_5.jpg"
+  ],
+  "cover_url": "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/carousel_1.jpg"
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-22",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "שבוע טוב / ביקורת לקוח / השקיעה הבאה",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-22/story3.jpg"
+  ]
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-23",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "מי מצחיק יותר? / ביקורת לקוח / רוצים תמונות כאלה?",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-23/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-23/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-23/story3.jpg"
+  ]
+ },
+ {
+  "kind": "carousel",
+  "status": "programmé",
+  "planned_for": "2026-11-24",
+  "hook": "מה קורה ביום הצילום?",
+  "idea": "Carrousel thème 1 avec texte : déroulé d'une séance (rassurer, coulisses) ; CTA enregistrer/partager",
+  "caption": "מה בעצם קורה ביום צילום זוגי? הרבה שואלים אותי, אז ריכזתי הכל כאן.\nשמרו את הפוסט ושלחו למי שמתחתן בקרוב.\nלבדוק אם נשאר תאריך: wa.link/ezm2no\n\n#צילומיזוגיות #savethedate #לפניהחתונה #צלםזוגות #צלםבמרכז",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/carousel_1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/carousel_2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/carousel_3.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/carousel_4.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/carousel_5.jpg"
+  ],
+  "cover_url": "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/carousel_1.jpg"
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-24",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "איפה הייתם מצטלמים? / ביקורת לקוח / ים ושקיעה",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-24/story3.jpg"
+  ]
+ },
+ {
+  "kind": "story",
+  "slot": "jour",
+  "story_date": "2026-11-25",
+  "planned_for": null,
+  "stories_done": 0,
+  "status": "programmé",
+  "hook": "חיבוק או נשיקה? / ביקורת לקוח / מתחתנים בקרוב?",
+  "media_urls": [
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-25/story1.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-25/story2.jpg",
+   "https://raw.githubusercontent.com/chlomo111-bit/chlomo-photo-ig/main/media/2026-11-25/story3.jpg"
+  ]
+ }
+]
